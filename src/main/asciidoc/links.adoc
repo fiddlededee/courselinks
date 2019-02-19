@@ -15,6 +15,7 @@ include::_doc_general_attributes.adoc[]
 :iconfont-name: font-awesome-4.7.0/css/font-awesome
 :nofooter:
 :revealjs_mouseWheel: true
+:toc: left
 
 == Материалы по платформе
 
