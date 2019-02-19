@@ -9,7 +9,7 @@
 include::_doc_general_attributes.adoc[]
 :doctype: article
 :toclevels: 3
-:!imagesdir:
+:imagesdir: images
 :icons: font
 :iconfont-remote!:
 :iconfont-name: font-awesome-4.7.0/css/font-awesome
@@ -28,49 +28,77 @@ include::_doc_general_attributes.adoc[]
 
 === По платформе «КУРС»
 
-[cols="5, ^1, ^1", options="header"]
+[cols="5, ^1, ^1, ^1", options="header"]
 |===
 ^|Материал
+^|Видеозапись
 ^|Место (площадка)
 ^|Дата
+
 |https://2018.secon.ru/reports/celesta-sozdanie-biznes-logiki-v-java-ekosisteme[Celesta: Создание бизнес-логики в Java-экосистеме]
-|SECON2018
+a|image::yt.png[link="https://www.youtube.com/watch?v=IEIzpqID2XI"]
+|SECON2018, Пенза
 |17.03.2018
 
 |https://jugmsk.timepad.ru/event/569994/[Скрытая сложность повседневной задачи: отображение табличных данных. Скрытая сложность Celesta и Flute: Создание ad hoc бизнес-логики в Java-экосистеме]
-|JUG.MSK
+a|image::yt.png[link="https://www.youtube.com/watch?v=16lB_c6pHfc"]
+|JUG.MSK, Москва
 |21.09.2017
 
 |http://2017.jpoint.ru/talks/hidden-complexity-of-a-routine-task-presenting-table-data-in-user-interface/[Скрытая сложность повседневной задачи: отображение табличных данных]
-|JPoint2017
+a|image::yt.png[link="https://www.youtube.com/watch?v=h5PpZxYsEvc"]
+|JPoint2017, Москва
 |08.04.2017
 |===
 
 === По другим темам
 
-[cols="5, ^1, ^1", options="header"]
+[cols="5, ^1, ^1, ^1", options="header"]
 |===
 ^|Описание
+^|Видеозапись
 ^|Место (площадка)
 ^|Дата
 
+| Непрерывный статический анализ
+|
+| https://devopsforum.ru[DevopsForum], Москва
+| 20.04.2019
+
+| https://jpoint.ru/talks/7fyw10golijzms1eghmntp/[Kafka Streams API: шаг за рамки Hello World]
+|
+| JPoint2019, Москва
+| 05.04.2019
+
+a| 1. Kafka Streams API: шаг за рамки Hello World
+2. Непрерывный статический анализ кода
+|
+| https://permdevday.timepad.ru/event/891016/[PermDevDay2019], Пермь
+| 05.04.2019
+
+
 |https://www.meetup.com/ru-RU/RedCode/events/256240101[RedCode Meetup #2. Documentation & Configuration as Code]
-|https://www.meetup.com/ru-RU/RedCode/
+|
+|https://www.meetup.com/ru-RU/RedCode/[RedCode], Краснодар
 |22.11.2018
 
 |https://devoops.ru/2018/spb/talks/1xugh7edoymkmwegye0mks/[Ansible playbooks — это код: проверяем, тестируем, непрерывно интегрируем]
-|DevOops2018
+|
+|DevOops2018, СПб
 |14.10.2018
 
 |https://2018.secrus.org/program/submitted-presentations/applying-documentation-as-code-practice/[Применение практики «Документация как код» для документирования заказных приложений]
-|SECR2018
+a|image::yt.png[link="https://www.youtube.com/watch?v=gUlfFsxVCFg"]
+|SECR2018, Москва
 |12.10.2018
 
 |https://www.meetup.com/ru-RU/DevOps-Moscow-in-Russian/events/254754747/?eventId=254754747&rv=ea1_v2&chapter_analytics_code=UA-47509742-1&rv=ea1_v2[DevOps Moscow meetup: Infrastructure as Code]
-|https://www.meetup.com/ru-RU/DevOps-Moscow-in-Russian/[DevOps Moscow in Russian]
+a|image::yt.png[link="https://www.youtube.com/watch?v=xZHrzTz9T1I"]
+|https://www.meetup.com/ru-RU/DevOps-Moscow-in-Russian/[DevOps Moscow]
 |26.09.2018
 
 |https://pensive-cray-1a353a.netlify.com[Почему мы выбрали Asciidoctor для ведения программной документации]
+a|image::yt.png[link="https://www.youtube.com/watch?v=UMEDdvUNRAQ&feature=youtu.be&t=9790"] 
 |https://www.meetup.com/ru-RU/Write-the-Docs-Moscow/[Write the Docs Moscow]
 |22.08.2018
 
@@ -86,6 +114,11 @@ include::_doc_general_attributes.adoc[]
 ^|Материал
 ^|Место
 ^|Дата
+
+|https://dzone.com/articles/producing-spreadsheet-reports-using-xylophone[Producing Spreadsheet Reports Using Xylophone]
+|dzone.com
+|07.01.2019
+
 
 |https://habr.com/post/422059/[Выгружаем данные в Excel. Цивилизованно]
 |habr.com
@@ -125,11 +158,19 @@ include::_doc_general_attributes.adoc[]
 ^|Место
 ^|Дата
 
+|https://habr.com/ru/post/440610/[Introduce Static Analysis in the Process, Don't Just Search for Bugs with It]
+|habr.com
+|18.02.2019
+
 |https://habr.com/ru/post/436868/[Внедряйте статический анализ в процесс, а не ищите с его помощью баги]
 |habr.com
 |21.01.2019
 
-|https://habr.com/post/416077/[PlantUML — все, что нужно бизнес-аналитику для создания диаграмм в программной документации]
+|https://habr.com/ru/post/432736/[Devops, JUnit5 и тестирование микросервисов: субъективный взгляд на московский «Гейзенбаг»]
+|habr.com
+|10.12.2017
+
+|https://habr.com/post/416077/[PlantUML — все, что нужно бизнес-аналитику для создания диаграмм в программной документации]
 |habr.com
 |04.07.2018
 
