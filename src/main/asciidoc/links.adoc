@@ -76,6 +76,10 @@ a| 1. Kafka Streams API: шаг за рамки Hello World
 | https://permdevday.timepad.ru/event/891016/[PermDevDay2019], Пермь
 | 05.04.2019
 
+| Участие в экспертном стенде сообщества Write The Docs
+|
+| https://teamleadconf.ru/[TeamLead Conf], Москва
+| 25-26.02.2019
 
 |https://www.meetup.com/ru-RU/RedCode/events/256240101[RedCode Meetup #2. Documentation & Configuration as Code]
 |
