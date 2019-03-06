@@ -62,8 +62,14 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=h5PpZxYsEvc"]
 
 | Непрерывный статический анализ
 |
+| https://nastachku.ru/nepreryvnyy-staticheskiy-analiz[Стачка], Ульяновск
+| 26.04.2019
+
+| Непрерывный статический анализ
+|
 | https://devopsforum.ru[DevopsForum], Москва
 | 20.04.2019
+
 
 | https://jpoint.ru/talks/7fyw10golijzms1eghmntp/[Kafka Streams API: шаг за рамки Hello World]
 |
