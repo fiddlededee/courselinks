@@ -60,6 +60,11 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=h5PpZxYsEvc"]
 ^|Место (площадка)
 ^|Дата
 
+| Непрерывный статический анализ кода
+|
+| https://heisenbug-piter.ru/2019/spb/talks/4u3n82jikpkslv9zcvmzpc/[HEIZENBUG], Санте-Петербург
+| 17.05.2019
+
 | Непрерывный статический анализ
 |
 | https://nastachku.ru/nepreryvnyy-staticheskiy-analiz[Стачка], Ульяновск
