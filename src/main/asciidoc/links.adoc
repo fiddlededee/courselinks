@@ -174,6 +174,10 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=UMEDdvUNRAQ&feature=youtu.
 ^|Место
 ^|Дата
 
+|https://habr.com/ru/post/456032/[Презентация как код, или Почему я больше не пользуюсь Powerpoint-ом]
+|habr.com
+|22.06.2019
+
 |https://habr.com/ru/post/440610/[Introduce Static Analysis in the Process, Don't Just Search for Bugs with It]
 |habr.com
 |18.02.2019
