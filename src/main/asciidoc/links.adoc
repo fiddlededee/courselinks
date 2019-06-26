@@ -131,10 +131,13 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=UMEDdvUNRAQ&feature=youtu.
 ^|Место
 ^|Дата
 
+|https://habr.com/ru/post/455746/[Celesta 7.x: ORM, миграции и тестирование «в одном флаконе»]
+|habr.com
+|26.06.2019
+
 |https://dzone.com/articles/producing-spreadsheet-reports-using-xylophone[Producing Spreadsheet Reports Using Xylophone]
 |dzone.com
 |07.01.2019
-
 
 |https://habr.com/post/422059/[Выгружаем данные в Excel. Цивилизованно]
 |habr.com
