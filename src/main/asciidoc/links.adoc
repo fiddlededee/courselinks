@@ -60,14 +60,25 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=h5PpZxYsEvc"]
 ^|Место (площадка)
 ^|Дата
 
-| Непрерывный статический анализ кода
-|
-| https://heisenbug-piter.ru/2019/spb/talks/4u3n82jikpkslv9zcvmzpc/[HEIZENBUG], Санте-Петербург
+| https://jugmsk.timepad.ru/event/1020626/[Kafka Streams API: шаг за рамки Hello World]
+a| 
+
+image::yt.png[link="https://youtu.be/PqQax9zur9I"]
+
+image::yt.png[link="https://youtu.be/pipM6bwQjoM"]
+
+| JUG.MSK, Москва
+| 25.07.2019
+
+
+| https://heisenbug-piter.ru/2019/spb/talks/4u3n82jikpkslv9zcvmzpc/[Непрерывный статический анализ кода]
+a| image::yt.png[link="https://www.youtube.com/watch?v=_Wv-PvZeRlI"]
+| https://heisenbug.ru/[Гейзенбаг2019], Санкт-Петербург
 | 17.05.2019
 
-| Непрерывный статический анализ
+| https://nastachku.ru/archive/2019/index.php?dispatch=products.view&product_id=2878[Непрерывный статический анализ]
 |
-| https://nastachku.ru/nepreryvnyy-staticheskiy-analiz[Стачка], Ульяновск
+| https://nastachku.ru[Стачка2019], Ульяновск
 | 26.04.2019
 
 | Непрерывный статический анализ
@@ -77,7 +88,7 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=h5PpZxYsEvc"]
 
 
 | https://jpoint.ru/talks/7fyw10golijzms1eghmntp/[Kafka Streams API: шаг за рамки Hello World]
-|
+a| image::yt.png[link="https://www.youtube.com/watch?v=uUZDfVTVGrE"]
 | JPoint2019, Москва
 | 05.04.2019
 
@@ -99,7 +110,7 @@ a| 1. Kafka Streams API: шаг за рамки Hello World
 |22.11.2018
 
 |https://devoops.ru/2018/spb/talks/1xugh7edoymkmwegye0mks/[Ansible playbooks — это код: проверяем, тестируем, непрерывно интегрируем]
-|
+a|image::yt.png[link="https://www.youtube.com/watch?v=UkP0PGMbWxY"]
 |DevOops2018, СПб
 |14.10.2018
 
