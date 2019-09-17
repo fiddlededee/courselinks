@@ -60,6 +60,15 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=h5PpZxYsEvc"]
 ^|Место (площадка)
 ^|Дата
 
+| https://it.rt.ru/rt_event/docops-meetup/[Ведение документации на программный продукт и ее переиспользование в отчетности заказчику]
+a| 
+
+image::yt.png[link="https://www.youtube.com/watch?v=5N3zyvXB6Jg"]
+
+| Write The Docs, Москва
+| 26.07.2019
+
+
 | https://jugmsk.timepad.ru/event/1020626/[Kafka Streams API: шаг за рамки Hello World]
 a| 
 
