@@ -60,6 +60,16 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=h5PpZxYsEvc"]
 ^|Место (площадка)
 ^|Дата
 
+
+| https://devoops.ru/2019/spb/talks/3oexib43m1mt8ww4ouofd3/[Terraform vs Helm: Битва за инфраструктуру]
+a| 
+
+{nbsp}
+
+| Devoops 2019, Санкт-Петербург
+| 29.10.2019
+
+
 | https://it.rt.ru/rt_event/docops-meetup/[Ведение документации на программный продукт и ее переиспользование в отчетности заказчику]
 a| 
 
