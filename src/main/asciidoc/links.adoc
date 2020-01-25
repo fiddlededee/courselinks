@@ -207,6 +207,10 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=UMEDdvUNRAQ&feature=youtu.
 ^|Место
 ^|Дата
 
+|https://dzone.com/articles/presentation-as-code-why-i-abandoned-powerpoint[Presentation as Code: Why I Abandoned PowerPoint]
+|dzone.com
+|23.10.2019
+
 |https://habr.com/ru/post/456032/[Презентация как код, или Почему я больше не пользуюсь Powerpoint-ом]
 |habr.com
 |22.06.2019
