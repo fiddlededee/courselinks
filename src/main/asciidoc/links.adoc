@@ -161,6 +161,10 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=UMEDdvUNRAQ&feature=youtu.
 ^|Место
 ^|Дата
 
+|https://dzone.com/articles/celesta-sql-databases-api-schema-migration-and-tes[Celesta: SQL Database APIs, Schema Migration, and Testing in a Single Java Library ]
+|dzone.com
+|25.03.2020
+
 |https://habr.com/ru/post/455746/[Celesta 7.x: ORM, миграции и тестирование «в одном флаконе»]
 |habr.com
 |26.06.2019
