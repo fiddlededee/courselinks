@@ -61,10 +61,19 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=h5PpZxYsEvc"]
 ^|Дата
 
 
-| https://devoops.ru/2019/spb/talks/3oexib43m1mt8ww4ouofd3/[Terraform vs Helm: Битва за инфраструктуру]
+| https://holyjs-piter.ru/2020/spb/talks/2vx36wa3flihkyipewfeeo/[Apache Kafka: Что это и как она изменит архитектуру вашего приложения]
 a| 
 
 {nbsp}
+
+| HolyJS SPb 2020, онлайн
+| 25.06.2020
+
+
+| https://2019.devoops-piter.ru/2019/spb/talks/3oexib43m1mt8ww4ouofd3/[Terraform vs Helm: Битва за инфраструктуру]
+a| 
+
+image::yt.png[link="https://www.youtube.com/watch?v=EvXgvUnD774"]
 
 | Devoops 2019, Санкт-Петербург
 | 29.10.2019
@@ -73,7 +82,7 @@ a|
 | https://it.rt.ru/rt_event/docops-meetup/[Ведение документации на программный продукт и ее переиспользование в отчетности заказчику]
 a| 
 
-image::yt.png[link="https://www.youtube.com/watch?v=5N3zyvXB6Jg"]
+image::yt.png[link="https://www.youtube.com/watch?v=5N3zyvXB6Jg&t=6449"]
 
 | Write The Docs, Москва
 | 26.07.2019
