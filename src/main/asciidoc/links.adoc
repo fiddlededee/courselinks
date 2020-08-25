@@ -220,6 +220,15 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=UMEDdvUNRAQ&feature=youtu.
 ^|Место
 ^|Дата
 
+
+|https://www.confluent.io/blog/testing-kafka-streams/[Testing Kafka Streams – A Deep Dive]
+|Confluent Blog
+|18.08.2020
+
+|https://habr.com/ru/company/jugru/blog/499408/[Подводные камни тестирования Kafka Streams]
+|habr.com
+|12.05.2020
+
 |https://dzone.com/articles/presentation-as-code-why-i-abandoned-powerpoint[Presentation as Code: Why I Abandoned PowerPoint]
 |dzone.com
 |23.10.2019
