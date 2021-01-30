@@ -60,11 +60,19 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=h5PpZxYsEvc"]
 ^|Место (площадка)
 ^|Дата
 
+| https://jokerconf.com/2020/talks/mfm8ytezwk2ei5uxcjynm/[Kafka streams testing: A deep dive]
+a| 
+
+image::yt.png[link="https://www.youtube.com/watch?v=S_73iXJ50Yc"]
+
+| Joker<?> 2020, онлайн
+| 28.11.2020
+
 
 | https://holyjs-piter.ru/2020/spb/talks/2vx36wa3flihkyipewfeeo/[Apache Kafka: Что это и как она изменит архитектуру вашего приложения]
 a| 
 
-{nbsp}
+image::yt.png[link="https://www.youtube.com/watch?v=nkYW7YqJYmE"]
 
 | HolyJS SPb 2020, онлайн
 | 25.06.2020
