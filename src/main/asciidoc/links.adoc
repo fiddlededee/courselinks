@@ -228,6 +228,9 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=UMEDdvUNRAQ&feature=youtu.
 ^|Место
 ^|Дата
 
+|https://habr.com/ru/post/550086/[Asciidoc для подготовки сложной документации]
+|habr.com
+|01.04.2021
 
 |https://www.confluent.io/blog/testing-kafka-streams/[Testing Kafka Streams – A Deep Dive]
 |Confluent Blog
