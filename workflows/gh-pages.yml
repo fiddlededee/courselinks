@@ -1,0 +1,24 @@
+name: Build and Deploy
+on: [push]
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.4
+      - name: build 
+        run: |
+          mkdir target
+          docker run --rm -v $(pwd):/documents/ lihame/course-doc asciidoctor src/main/asciidoc/links.adoc -o target/index.html
+          cp src/main/asciidoc/images target -r
+      - name: GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.3.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          build_dir: target
+
+
+          
+        
+      
