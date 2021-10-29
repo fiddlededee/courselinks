@@ -228,6 +228,15 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=UMEDdvUNRAQ&feature=youtu.
 ^|Место
 ^|Дата
 
+|https://habr.com/ru/post/571326/[Автоматический контроль качества документации в Asciidoc или DocOps для Хабра]
+|habr.com
+|13.08.2021
+
+|https://habr.com/ru/post/558940/[Asciidoc для ЕСКД]
+|habr.com
+|24.05.2021
+
+
 |https://habr.com/ru/post/550086/[Asciidoc для подготовки сложной документации]
 |habr.com
 |01.04.2021
