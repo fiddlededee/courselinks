@@ -277,7 +277,7 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=UMEDdvUNRAQ&feature=youtu.
 |habr.com
 |25.03.2018
 
-|https://dzone.com/articles/using-o-notation-beyond-algorithm-analysis[Using O Notation Beyond Algorithm Analysis]
+|https://ponomarev.uk/bigo.html[Using O Notation Beyond Algorithm Analysis]
 |dzone.com
 |12.02.2018
 
