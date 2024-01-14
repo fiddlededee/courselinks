@@ -194,7 +194,7 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=UMEDdvUNRAQ&feature=youtu.
 |habr.com
 |03.09.2018
 
-|https://dzone.com/articles/hidden-complexity-of-a-routine-task-presenting-tab[Hidden Complexity of a Routine Task: Presenting Table Data in User Interface]
+|https://ponomarev.uk/blog/grid.html[Hidden Complexity of a Routine Task: Presenting Table Data in User Interface]
 |dzone.com
 |23.08.2018
 
@@ -277,7 +277,7 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=UMEDdvUNRAQ&feature=youtu.
 |habr.com
 |25.03.2018
 
-|https://ponomarev.uk/bigo.html[Using O Notation Beyond Algorithm Analysis]
+|https://ponomarev.uk/blog/bigo.html[Using O Notation Beyond Algorithm Analysis]
 |dzone.com
 |12.02.2018
 
