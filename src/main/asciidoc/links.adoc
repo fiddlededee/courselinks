@@ -178,7 +178,7 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=UMEDdvUNRAQ&feature=youtu.
 ^|Место
 ^|Дата
 
-|https://dzone.com/articles/celesta-sql-databases-api-schema-migration-and-tes[Celesta: SQL Database APIs, Schema Migration, and Testing in a Single Java Library ]
+|https://ponomarev.uk/blog/celesta[Celesta: SQL Database APIs, Schema Migration, and Testing in a Single Java Library ]
 |dzone.com
 |25.03.2020
 
@@ -186,7 +186,7 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=UMEDdvUNRAQ&feature=youtu.
 |habr.com
 |26.06.2019
 
-|https://dzone.com/articles/producing-spreadsheet-reports-using-xylophone[Producing Spreadsheet Reports Using Xylophone]
+|https://ponomarev.uk/blog/xylophone[Producing Spreadsheet Reports Using Xylophone]
 |dzone.com
 |07.01.2019
 
@@ -194,11 +194,11 @@ a|image::yt.png[link="https://www.youtube.com/watch?v=UMEDdvUNRAQ&feature=youtu.
 |habr.com
 |03.09.2018
 
-|https://ponomarev.uk/blog/grid.html[Hidden Complexity of a Routine Task: Presenting Table Data in User Interface]
+|https://ponomarev.uk/blog/grid[Hidden Complexity of a Routine Task: Presenting Table Data in User Interface]
 |dzone.com
 |23.08.2018
 
-|https://dzone.com/articles/trouble-free-database-migration-idempotence-and-co[Trouble-Free Database Migration: Idempotence and Convergence for DDL Scripts]
+|https://ponomarev.uk/blog/ddl[Trouble-Free Database Migration: Idempotence and Convergence for DDL Scripts]
 |dzone.com
 |27.03.2018
 
